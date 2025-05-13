@@ -1,0 +1,4 @@
+
+PORT = yourport
+
+JWT_SECRET= yourjwtsecret

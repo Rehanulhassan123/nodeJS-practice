@@ -1,0 +1,4 @@
+MONGOOSEURI = ''
+PORT = ''
+jWT_SECRET =''
+JWT_EXPIRY = ''
